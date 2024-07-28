@@ -1,3 +1,6 @@
+![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/user-attachments/assets/9a232356-9ee8-48dc-98b3-a07e46d950cc)
+
+
 <h1 align="center">Hi 👋, I'm Nikolozi Kutchava</h1>
 <h3 align="center">A future Web Developer from Georgia</h3>
 
