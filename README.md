@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikoloz Kutchava</h1>
-<h3 align="center">A future Web Developer from Georgia</h3>
+<h3 align="center">A future Front-End Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuchavanikolozi&label=Profile%20views&color=0e75b6&style=flat" alt="kuchavanikolozi" /> </p>
 
