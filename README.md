@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuchavanikolozi/GOA-Homeworks](https://github.com/kuchavanikolozi/GOA-Homeworks)
 
-- 💬 Ask me about **Python, CSS, little bit JavaScript.**
+- 💬 Ask me about **Python,HTML, CSS, little bit JavaScript.**
 
 - 📫 How to reach me **kuchava.nikolozzz1@gmail.com**
 
