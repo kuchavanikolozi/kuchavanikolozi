@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuchavanikolozi" alt="kuchavanikolozi" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript**
+- 🌱 I’m currently learning **CSS, JavaScript, Blender (3D)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuchavanikolozi/GOA-Homeworks](https://github.com/kuchavanikolozi/GOA-Homeworks)
 
