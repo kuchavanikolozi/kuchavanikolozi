@@ -1,4 +1,4 @@
-![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/user-attachments/assets/9a232356-9ee8-48dc-98b3-a07e46d950cc)
+![b6ab5315fe0e21ae901435eb4101be04](https://github.com/user-attachments/assets/8e02814d-dc9e-4ae1-8cbb-b1090f2f87fd)
 
 
 <h1 align="center">Hi 👋, I'm Nikoloz Kutchava</h1>
