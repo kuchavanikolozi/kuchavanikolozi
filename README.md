@@ -1,5 +1,4 @@
-![b6ab5315fe0e21ae901435eb4101be04](https://github.com/user-attachments/assets/8e02814d-dc9e-4ae1-8cbb-b1090f2f87fd)
-
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/b710cda1-edac-4e69-afaf-57c04b174f7f)
 
 <h1 align="center">Hi 👋, I'm Nikoloz Kutchava</h1>
 <h3 align="center">A future Front-End Developer from Georgia</h3>
